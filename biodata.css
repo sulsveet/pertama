@@ -1,0 +1,13 @@
+h1 {
+	font: italic normal 50px arial sans-serif;
+}
+body {
+	font-family: arial;
+	background: url('./background.webp');
+	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: white;
+}
