@@ -1,0 +1,12 @@
+body {
+	background: url('./school.webp');
+	font-size: 20px;
+}
+
+tr td {
+	color: red;
+}
+
+input label {
+	color: blue;
+}

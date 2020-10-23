@@ -1,5 +1,6 @@
 h1 {
 	color: red;
+
 }
 body {
 	font-family: arial;
@@ -19,3 +20,12 @@ ol {
 .p2 {
 	color: grey;
 }
+
+.hello:hover	{
+	color: green;
+	font-size: 50;
+	font-family: initial;
+}
+
+
+
