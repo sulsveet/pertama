@@ -51,9 +51,8 @@ table {
 
  body {
  	font: 16px/28px arial, sans-serif;
- 	background-color: grey;
  	color: black;
- 	background-image: url('/.website.webp');
+ 	background-image: url("./website.webp");
  }
 
 .link {
